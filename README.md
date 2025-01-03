@@ -1,10 +1,10 @@
-# Personal Portfolio Website
+# 🌟 Personal Portfolio Website
 
 This repository contains the source code for my personal portfolio website. It showcases my projects, skills, and contact information, built with React.js and modern design principles.
 
-## 🚀 Features
+##  Features
 
-### 🌟 Main Sections
+###  Main Sections
 1. **About Me**:
    - A brief introduction with dynamic animations using `framer-motion` and `typed.js`.
    - Highlights my background in computer science, programming skills, and extracurricular activities.
@@ -18,23 +18,23 @@ This repository contains the source code for my personal portfolio website. It s
 3. **Contact**:
    - Interactive "Contact Me" section with a Google Form and link to LinkedIn.
 
-### 🎨 Design Highlights
+###  Design Highlights
 - Smooth animations powered by `framer-motion`.
 - Responsive layouts with `Tailwind CSS`.
 - Starry background and floating components for an engaging experience.
 
-## 🛠️ Technology Stack
+## 🛠 Technology Stack
 
 - **Frontend**: React.js, JavaScript
 - **Styling**: Tailwind CSS, CSS animations
 - **Animations**: framer-motion, typed.js
 
-## 📂 Project Structure
+##  Project Structure
 
 - `AboutMe.js`: Contains the introduction and personal details.
 - `Contact.js`: Interactive section with external links and a contact form.
 - `Projects.js`: Navigation to detailed pages for each project.
 
-## 🌐 Live Demo
+##  Live Demo
 
 Visit my portfolio at [your-portfolio-url](#).
