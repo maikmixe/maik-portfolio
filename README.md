@@ -23,7 +23,7 @@ This repository contains the source code for my personal portfolio website. It s
 - Responsive layouts with `Tailwind CSS`.
 - Starry background and floating components for an engaging experience.
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 - **Frontend**: React.js, JavaScript
 - **Styling**: Tailwind CSS, CSS animations
